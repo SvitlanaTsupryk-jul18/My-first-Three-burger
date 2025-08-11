@@ -1,8 +1,8 @@
-# Three.js Journey
+# Three.js first project 
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+## [Burger]{https://svitlanatsupryk-jul18.github.io/My-first-Three-burger/}
+
+### Setup
 
 ``` bash
 # Install dependencies (only the first time)
