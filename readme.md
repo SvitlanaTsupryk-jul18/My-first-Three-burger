@@ -1,6 +1,6 @@
 # Three.js first project 
 
-## [Burger]{https://svitlanatsupryk-jul18.github.io/My-first-Three-burger/}
+## [Burger](https://svitlanatsupryk-jul18.github.io/My-first-Three-burger/)
 
 ### Setup
 

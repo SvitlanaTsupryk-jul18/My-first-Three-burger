@@ -20,14 +20,15 @@ const scene = new THREE.Scene();
  * Models
  */
 const dracoLoader = new DRACOLoader();
-dracoLoader.setDecoderPath("/draco/");
+dracoLoader.setDecoderPath(import.meta.env.BASE_URL + "/draco/");
 
 const gltfLoader = new GLTFLoader();
 gltfLoader.setDRACOLoader(dracoLoader);
 
 let mixer = null;
 
-gltfLoader.load("/models/hamburger.glb", (gltf) => {
+const modelUrl = import.meta.env.BASE_URL + "models/hamburger.glb";
+gltfLoader.load(modelUrl, (gltf) => {
   scene.add(gltf.scene);
 });
 
