@@ -1,6 +1,6 @@
-# Three.js first project 
+# Three.js first project using own Blender model
 
-## [Burger](https://svitlanatsupryk-jul18.github.io/My-first-Three-burger/)
+## [Burger](https://svitlanatsupryk-jul18.github.io/My-first-Three-burger/) <- Click
 
 ### Setup
 
